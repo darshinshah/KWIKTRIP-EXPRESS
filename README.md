@@ -26,6 +26,3 @@ TO RUN THE WEBSITE : OPEN fwt.html file in any browser(Google Chrome Preffered).
 The project has been performed by
 -Darshin K Shah 
 -Meet A Sanghvi
-
-
-ok
